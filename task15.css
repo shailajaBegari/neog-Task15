@@ -117,7 +117,7 @@ hr {
 }
 
 .navigation .link-active {
-    font-weight: bold;
+    font-weight:normal;
 }
 
 /** header **/
@@ -175,7 +175,7 @@ hr {
 }
 
 .footer .footer-header {
-    font-weight: bold;
+    font-weight: normal;
     font-size: large;
 }
 

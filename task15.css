@@ -58,12 +58,12 @@ hr {
 .link {
     box-sizing: border-box;
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0rem 1rem;
 }
 
 .link-primary{
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 0rem;
     color: rgb(189, 184, 162);
     display:block;
     max-width: 140px;
@@ -73,8 +73,8 @@ hr {
 
 .link-secondary {
     color: var(--primary-color);
-    border-radius: 0.5rem;
-    border: 1px solid var(--primary-color);
+    border-radius: 0rem;
+    border: 0px  var(--primary-color);
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
